@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This site is all about code. Code, code, code.
+
+Preferably React, Node, JavaScript and algorithms.
